@@ -5,3 +5,14 @@ it uses the simple lopps and compariosion logic to determine the maximum value a
 ##usage
 //gcc compilation
 /Largest number in array-o-largest number in array//
+our sponsorship helps me:
+- Continue developing helpful projects 🧩  
+- Share tutorials for beginners 📘  
+- Keep growing in open-source development 🌍  
+
+Thank you for your support! 🙏
+
+---
+
+### 📸 Connect with Me
+- GitHub: [@vamsidola9-sketch](https://github.com/vamsidola9-sketch)
